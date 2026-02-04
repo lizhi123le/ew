@@ -1075,7 +1075,7 @@
     "id": "xibao",
     "name": "细胞采集",
     "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
-    "group": "premium",
+    "group": ["normal","premium"],
     "enabled": true,
     "priority": 135
   },
