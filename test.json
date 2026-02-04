@@ -1139,7 +1139,7 @@
     "id": "huoniaoziyuan",
     "name": "火鸟资源",
     "baseUrl": "https://hnzyapi.com/api.php/provide/vod",
-    "group": "default",
+    "group": "normal",
     "enabled": true,
     "priority": 143
   },
@@ -1147,7 +1147,7 @@
     "id": "liangziziyuan",
     "name": "量子资源",
     "baseUrl": "https://api.liangzizy.com/inc/apijson_vod.php",
-    "group": "default",
+    "group": "normal",
     "enabled": true,
     "priority": 144
   },
@@ -1155,7 +1155,7 @@
     "id": "yongjiuziyuan",
     "name": "永久资源",
     "baseUrl": "https://api.yongjiuzy.cc/provide/vod",
-    "group": "default",
+    "group": "normal",
     "enabled": true,
     "priority": 145
   },
@@ -1163,7 +1163,7 @@
     "id": "baiduziyuan",
     "name": "百度资源",
     "baseUrl": "https://api.1080zyku.com/inc/apijson_vod.php",
-    "group": "default",
+    "group": "normal",
     "enabled": true,
     "priority": 146
   },
@@ -1171,7 +1171,7 @@
     "id": "tv1080ziyuan",
     "name": "TV-1080资源",
     "baseUrl": "https://api.1080zyku.com/inc/api_mac10.php",
-    "group": "default",
+    "group": "normal",
     "enabled": true,
     "priority": 147
   }
