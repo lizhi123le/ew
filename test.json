@@ -683,7 +683,7 @@
     "id": "slapibf",
     "name": "森林资源",
     "baseUrl": "http://slapibf.com/api.php/provide/vod",
-    "group": ["normal","premium"],
+    "group": "premium",
     "enabled": true,
     "priority": 86
   },
@@ -1035,7 +1035,7 @@
     "id": "senlin",
     "name": "森林资源",
     "baseUrl": "https://slapibf.com/api.php/provide/vod",
-    "group": ["normal","premium"],
+    "group": "premium",
     "enabled": true,
     "priority": 130
   },
@@ -1075,7 +1075,7 @@
     "id": "xibao",
     "name": "细胞采集",
     "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
-    "group": ["normal","premium"],
+    "group": "premium",
     "enabled": true,
     "priority": 135
   },
@@ -1115,7 +1115,7 @@
     "id": "tv1080ziyuan",
     "name": "TV-1080资源",
     "baseUrl": "https://api.1080zyku.com/inc/api_mac10.php",
-    "group": ["normal","premium"],
+    "group": "premium",
     "enabled": true,
     "priority": 140
   },
@@ -1179,7 +1179,7 @@
     "id": "tom",
     "name": "TOM资源",
     "baseUrl": "https://api.tomcaiji.com/api.php/provide/vod/",
-    "group": ["normal","premium"],
+    "group": "premium",
     "enabled": true,
     "priority": 148
   },
@@ -1187,7 +1187,7 @@
     "id": "tv1080",
     "name": "1080资源",
     "baseUrl": "https://1080p.tv/api.php/provide/vod/",
-    "group": ["normal","premium"],
+    "group": "premium",
     "enabled": true,
     "priority": 149
   },
@@ -1235,7 +1235,7 @@
     "id": "kan39",
     "name": "39影视",
     "baseUrl": "https://www.39kan.com/api.php/provide/vod/at/xml",
-    "group": ["normal","premium"],
+    "group": "premium",
     "enabled": true,
     "priority": 155
   },
@@ -1251,7 +1251,7 @@
     "id": "dadi",
     "name": "大地资源",
     "baseUrl": "https://dadiapi.com/api.php/provide/vod/at/xml/",
-    "group": ["normal","premium"],
+    "group": "premium",
     "enabled": true,
     "priority": 157
   },
@@ -1267,7 +1267,7 @@
     "id": "leshi",
     "name": "乐视资源",
     "baseUrl": "https://leshiapi.com/api.php/provide/vod/at/xml",
-    "group": ["normal","premium"],
+    "group": "premium",
     "enabled": true,
     "priority": 159
   }
