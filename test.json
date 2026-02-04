@@ -1307,7 +1307,7 @@
     "id": "dadi",
     "name": "大地资源",
     "baseUrl": "https://dadiapi.com/api.php/provide/vod/at/xml/",
-    "group": "normal",
+    "group": "premium",
     "enabled": true,
     "priority": 159
   },
