@@ -683,7 +683,7 @@
     "id": "slapibf",
     "name": "森林资源",
     "baseUrl": "http://slapibf.com/api.php/provide/vod",
-    "group": "premium",
+    "group": "normal",
     "enabled": true,
     "priority": 86
   },
