@@ -67,7 +67,7 @@
     "id": "modu",
     "name": "魔都资源",
     "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
-    "group": "normal",
+    "group": "premium",
     "enabled": true,
     "priority": 9
   },
@@ -227,7 +227,7 @@
     "id": "moduzy",
     "name": "魔都影视",
     "baseUrl": "https://www.moduzy.com/api.php/provide/vod",
-    "group": "normal",
+    "group": "premium",
     "enabled": true,
     "priority": 29
   },
@@ -459,7 +459,7 @@
     "id": "modudongman",
     "name": "魔都动漫",
     "baseUrl": "https://caiji.moduapi.cc/api.php/provide/vod",
-    "group": "normal",
+    "group": "premium",
     "enabled": true,
     "priority": 58
   },
@@ -515,7 +515,7 @@
     "id": "kuaibo",
     "name": "快播资源",
     "baseUrl": "http://www.kuaibozy.com/api.php/provide/vod",
-    "group": "normal",
+    "group": "premium",
     "enabled": true,
     "priority": 65
   },
@@ -547,7 +547,7 @@
     "id": "siwazy",
     "name": "丝袜资源",
     "baseUrl": "http://siwazyw.cc/api.php/provide/vod",
-    "group": "normal",
+    "group": "premium",
     "enabled": true,
     "priority": 69
   },
@@ -579,7 +579,7 @@
     "id": "heimuer",
     "name": "黑木耳点播",
     "baseUrl": "https://www.heimuer.tv/api.php/provide/vod",
-    "group": "normal",
+    "group": "premium",
     "enabled": true,
     "priority": 73
   },
@@ -619,7 +619,7 @@
     "id": "xiaohuangren",
     "name": "小黄人点播",
     "baseUrl": "https://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
-    "group": "normal",
+    "group": "premium",
     "enabled": true,
     "priority": 78
   },
@@ -755,7 +755,7 @@
     "id": "apilyzy",
     "name": "老鸭资源采集",
     "baseUrl": "http://api.apilyzy.com/api.php/provide/vod",
-    "group": "normal",
+    "group": "premium",
     "enabled": true,
     "priority": 95
   },
@@ -771,7 +771,7 @@
     "id": "vipmv",
     "name": "天堂资源",
     "baseUrl": "http://vipmv.cc/api.php/provide/vod",
-    "group": "normal",
+    "group": "premium",
     "enabled": true,
     "priority": 97
   },
@@ -779,7 +779,7 @@
     "id": "lehootv",
     "name": "乐活影视",
     "baseUrl": "http://lehootv.com/api.php/provide/vod",
-    "group": "normal",
+    "group": "premium",
     "enabled": true,
     "priority": 98
   },
@@ -803,7 +803,7 @@
     "id": "kuaibozy_alt",
     "name": "快播资源 (alt)",
     "baseUrl": "https://www.kuaibozy.com/api.php/provide/vod",
-    "group": "normal",
+    "group": "premium",
     "enabled": true,
     "priority": 101
   },
@@ -819,7 +819,7 @@
     "id": "siwazy_https",
     "name": "丝袜资源 (https)",
     "baseUrl": "https://siwazyw.cc/api.php/provide/vod",
-    "group": "normal",
+    "group": "premium",
     "enabled": true,
     "priority": 103
   },
