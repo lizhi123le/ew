@@ -1059,7 +1059,7 @@
     "id": "baiwan",
     "name": "百万资源",
     "baseUrl": "https://api.bwzyz.com/api.php/provide/vod",
-    "group": "premium",
+    "group": ["normal", "premium"],
     "enabled": true,
     "priority": 133
   },
@@ -1075,7 +1075,7 @@
     "id": "aosika",
     "name": "奥斯卡资源",
     "baseUrl": "https://aosikazy.com/api.php/provide/vod",
-    "group": "premium",
+    "group": ["normal","premium"],
     "enabled": true,
     "priority": 135
   },
@@ -1091,7 +1091,7 @@
     "id": "senlin",
     "name": "森林资源",
     "baseUrl": "https://slapibf.com/api.php/provide/vod",
-    "group": "premium",
+    "group": ["normal","premium"],
     "enabled": true,
     "priority": 137
   },
@@ -1115,7 +1115,7 @@
     "id": "shayu",
     "name": "鲨鱼资源",
     "baseUrl": "https://shayuapi.com/api.php/provide/vod",
-    "group": "premium",
+    "group": ["normal","premium"],
     "enabled": true,
     "priority": 140
   },
@@ -1123,7 +1123,7 @@
     "id": "xiaoji",
     "name": "小鸡资源",
     "baseUrl": "https://api.xiaojizy.live/provide/vod",
-    "group": "premium",
+    "group": ["normal","premium"],
     "enabled": true,
     "priority": 141
   },
@@ -1131,7 +1131,7 @@
     "id": "xibao",
     "name": "细胞采集",
     "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
-    "group": "premium",
+    "group": ["normal","premium"],
     "enabled": true,
     "priority": 142
   },
@@ -1171,7 +1171,7 @@
     "id": "tv1080ziyuan",
     "name": "TV-1080资源",
     "baseUrl": "https://api.1080zyku.com/inc/api_mac10.php",
-    "group": "normal",
+    "group": ["normal","premium"],
     "enabled": true,
     "priority": 147
   },
