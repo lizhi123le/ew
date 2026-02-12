@@ -744,14 +744,6 @@
     "priority": 93
   },
   {
-    "id": "feisu",
-    "name": "飞速资源",
-    "baseUrl": "http://fszy1.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 94
-  },
-  {
     "id": "yinghua",
     "name": "樱花资源",
     "baseUrl": "http://yhzy.cc/api.php/provide/vod",
@@ -774,21 +766,5 @@
     "group": "normal",
     "enabled": true,
     "priority": 97
-  },
-  {
-    "id": "guangsu",
-    "name": "光速资源",
-    "baseUrl": "http://guangsuapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 98
-  },
-  {
-    "id": "subo",
-    "name": "速播资源",
-    "baseUrl": "http://suboapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 99
   }
 ]
